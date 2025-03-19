@@ -1,0 +1,33 @@
+.dictionary-entry {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background: #f9f9f9;
+}
+
+.dictionary-entry h2 {
+    color: #222;
+    display: inline;
+    margin-right: 10px;
+}
+
+.pronunciation {
+    font-style: italic;
+    color: #555;
+}
+
+.definitions dt {
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.definitions dd {
+    margin-left: 20px;
+    font-style: italic;
+}
+
+footer {
+    font-size: 0.9em;
+    color: #666;
+}
